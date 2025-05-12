@@ -24,7 +24,7 @@ The front end is written in **React 18**, uses **Zustand** for state, is built w
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-org/order-management-api.git
+git clone https://github.com/IShowStyles/order_api_task
 cd order-management-api
 ```
 ### Envarioment variables 
@@ -38,5 +38,5 @@ cd order-management-api
 
 ### Test
   ```bash
-    cd api && npm run test --clearCache
+    cd api && npm run test 
   ```
